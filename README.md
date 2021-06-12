@@ -9,4 +9,4 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="32px" height="32px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="32px" height="32px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="32px" height="32px"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="32px" height="32px"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="32px" height="32px">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="64px" height="64px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64px" height="64px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="64px" height="64px"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="64px" height="64px"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="64px" height="64px">
