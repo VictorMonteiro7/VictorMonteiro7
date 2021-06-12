@@ -2,8 +2,8 @@
 
 ---
 
-<img src="https://cdn.worldvectorlogo.com/logos/brazilc.svg" width="16px" height="16px"><p style="font-size:16px">Brazilian guy</p><br/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="16px" height="16px"><p style="font-size:16px">Frontend engineer</p><br/>
+<img src="https://cdn.worldvectorlogo.com/logos/brazilc.svg" width="16px" height="16px">Brazilian guy<br/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="16px" height="16px">Frontend engineer<br/>
 
 ---
 
