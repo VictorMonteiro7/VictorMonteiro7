@@ -51,9 +51,9 @@ I also have experience with:
 -MongoDB  
 -Basic PHP  
 
-I'm currently learning:
--Automatized testes with Jest
--NodeJS
+I'm currently learning:  
+-Automatized testes with Jest  
+-NodeJS  
 -NextJS
 
 It's a glad have you here in my Github! Welcome.
