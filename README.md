@@ -2,8 +2,61 @@
 
 ---
 
-<img src="https://cdn.worldvectorlogo.com/logos/brazilc.svg" width="16px" height="16px">Brazilian guy<br/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="16px" height="16px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="16px" height="16px">Frontend engineer<br/>
+##### 🇧🇷 Portuguese:
+Desenvolvedor de Software apaixonado por códigos e desafios, tenho buscado sempre me atualizar em meio as ferramentas de desenvolvimento e maneiras para deixar meu código escalável, limpo e de fácil manutenção.
+
+Atualmente estou a procura de uma nova oportunidade, da qual eu possa demonstrar todo meu potencial. 
+
+Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas gosto de ler, praticar artes marciais e jogar. 
+
+Stacks principais (atualmente):  
+-React JS  
+-TypeScript
+
+Também tenho experiência com:  
+-Vanilla JavaScript  
+-HTML5  
+-CSS3  
+-SQL  
+-MySQL  
+-MongoDB  
+-PHP (básico).
+
+Atualmente eu estou estudando:  
+-NodeJS  
+-Testes automatizados com Jest  
+-NextJS  
+
+É um prazer ter você aqui no meu Github! Seja muito bem vindo.
+
+---
+
+##### 🇺🇸 English: 
+Software Developer, I really like codes and challenges, I have been looking for update myself and my development tools and looking for ways to let my code scalable, clean and easy to fix if necessary.
+
+Currently, I'm looking for a new job, where I can demonstrate all my potential. 
+
+I'm proactive and always try to do my best. In my spare time, I like to read, practice martial arts and play games. 
+
+My main stacks (currently):
+-ReactJS
+-TypeScript
+
+I also have experience with:
+-Vanilla JavaScript
+-HTML5
+-CSS3
+-SQL
+-MySQL
+-MongoDB
+-Basic PHP
+
+I'm currently learning:
+-Automatized testes with Jest
+-NodeJS
+-NextJS
+
+It's a glad have you here in my Github! Welcome.
 
 ---
 
