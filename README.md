@@ -38,18 +38,18 @@ Currently, I'm looking for a new job, where I can demonstrate all my potential.
 
 I'm proactive and always try to do my best. In my spare time, I like to read, practice martial arts and play games. 
 
-My main stacks (currently):
--ReactJS
+My main stacks (currently):  
+-ReactJS  
 -TypeScript
 
-I also have experience with:
--Vanilla JavaScript
--HTML5
--CSS3
--SQL
--MySQL
--MongoDB
--Basic PHP
+I also have experience with:  
+-Vanilla JavaScript  
+-HTML5  
+-CSS3  
+-SQL  
+-MySQL  
+-MongoDB  
+-Basic PHP  
 
 I'm currently learning:
 -Automatized testes with Jest
