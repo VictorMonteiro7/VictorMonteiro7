@@ -5,7 +5,7 @@
 ##### 🇧🇷 Portuguese:
 Desenvolvedor de Software apaixonado por códigos e desafios, tenho buscado sempre me atualizar em meio as ferramentas de desenvolvimento e maneiras para deixar meu código escalável, limpo e de fácil manutenção.
 
-Atualmente estou a procura de uma nova oportunidade, da qual eu possa demonstrar todo meu potencial. 
+Atualmente estou à procura de uma nova oportunidade, da qual eu possa demonstrar todo meu potencial. 
 
 Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas gosto de ler, praticar artes marciais e jogar. 
 
