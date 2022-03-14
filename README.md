@@ -11,9 +11,9 @@ Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas go
 
 Stacks principais (atualmente):  
 -React JS  
--TypeScript
--NodeJS 
--MongoDB  
+-TypeScript  
+-NodeJS  
+-MongoDB
 
 Também tenho experiência com:  
 -Vanilla JavaScript  
@@ -40,9 +40,9 @@ I'm proactive and always try to do my best. In my spare time, I like to read, pr
 
 My main stacks (currently):  
 -ReactJS  
--TypeScript
--NodeJS 
--MongoDB 
+-TypeScript  
+-NodeJS  
+-MongoDB
 
 I also have experience with:  
 -Vanilla JavaScript  
