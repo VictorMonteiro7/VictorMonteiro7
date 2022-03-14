@@ -12,6 +12,8 @@ Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas go
 Stacks principais (atualmente):  
 -React JS  
 -TypeScript
+-NodeJS 
+-MongoDB  
 
 Também tenho experiência com:  
 -Vanilla JavaScript  
@@ -19,11 +21,9 @@ Também tenho experiência com:
 -CSS3  
 -SQL  
 -MySQL  
--MongoDB  
 -PHP (básico).
 
-Atualmente eu estou estudando:  
--NodeJS  
+Atualmente eu estou estudando:   
 -Testes automatizados com Jest  
 -NextJS  
 
@@ -41,19 +41,19 @@ I'm proactive and always try to do my best. In my spare time, I like to read, pr
 My main stacks (currently):  
 -ReactJS  
 -TypeScript
+-NodeJS 
+-MongoDB 
 
 I also have experience with:  
 -Vanilla JavaScript  
 -HTML5  
 -CSS3  
 -SQL  
--MySQL  
--MongoDB  
+-MySQL   
 -Basic PHP  
 
 I'm currently learning:  
--Automatized testes with Jest  
--NodeJS  
+-Automatized testes with Jest   
 -NextJS
 
 It's a glad have you here in my Github! Welcome.
@@ -62,9 +62,7 @@ It's a glad have you here in my Github! Welcome.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="64px" height="64px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64px" height="64px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="64px" height="64px"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="64px" height="64px"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="64px" height="64px"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="64px" height="64px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="64px" height="64px">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36px" height="36px"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="36px" height="36px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36px" height="36px"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36px" height="36px"><img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="36px" height="36px"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="36px" height="36px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36px" height="36px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="36px" height="36px"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="36px" height="36px">
 ---
 
 ## &#x1f4c8; My GitHub Stats
