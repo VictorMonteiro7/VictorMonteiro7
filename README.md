@@ -5,7 +5,7 @@
 ##### 🇧🇷 Portuguese:
 Desenvolvedor de Software apaixonado por códigos e desafios, tenho buscado sempre me atualizar em meio as ferramentas de desenvolvimento e maneiras para deixar meu código escalável, limpo e de fácil manutenção.
 
-Atualmente estou à procura de uma nova oportunidade, da qual eu possa demonstrar todo meu potencial. 
+Atualmente trabalho como desenvolvedor fullstack na Leads2b.
 
 Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas gosto de ler, praticar artes marciais e jogar. 
 
@@ -34,7 +34,7 @@ Atualmente eu estou estudando:
 ##### 🇺🇸 English: 
 Software Developer, I really like codes and challenges, I have been looking for update myself and my development tools and looking for ways to let my code scalable, clean and easy to fix if necessary.
 
-Currently, I'm looking for a new job, where I can demonstrate all my potential. 
+Currently, I work as a fullstack developer at Leads2b.
 
 I'm proactive and always try to do my best. In my spare time, I like to read, practice martial arts and play games. 
 
