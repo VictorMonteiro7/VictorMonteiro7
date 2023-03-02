@@ -9,7 +9,7 @@ Atualmente trabalho como desenvolvedor fullstack na Leads2b.
 
 Sou pró ativo, esforçado e sempre tento fazer o meu melhor. Nas horas vagas gosto de ler, praticar artes marciais e jogar. 
 
-Stacks principais (atualmente):
+Stacks principais (atualmente):  
 -Vue.js  
 -MySQL  
 -PHP  
@@ -39,7 +39,7 @@ Currently, I work as a fullstack developer at Leads2b.
 
 I'm proactive and always try to do my best. In my spare time, I like to read, practice martial arts and play games. 
 
-My main stacks (currently):
+My main stacks (currently):  
 -Vue.js  
 -MySQL  
 -PHP  
